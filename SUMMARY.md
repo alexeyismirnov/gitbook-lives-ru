@@ -175,3 +175,7 @@
 * [МУЧЕНИК МИХАИЛ САВВААТ](muchenik-mikhail-savvaat.md)
 * [МУЧЕНИК ПОФИН ЛИОНСКИЙ](muchenik-pofin-lionskii.md)
 * [МУЧЕНИЦЫ КАПИТОЛИНА И ЭРОТИИДА КАППАДОКИЙСКИЕ](muchenicy-kapitolina-i-erotiida-kappadokiiskie-1.md)
+* [НЕДЕЛЯ О РАССЛАБЛЕННОМ](nedelya-o-rasslablennom.md)
+* [НИКИТА МИДИКИЙСКИЙ](nikita-midikiiskii.md)
+* [НИКИТА ИСПОВЕДНИК](nikita-ispovednik.md)
+* [ОНУФРИЙ ВЕЛИКИЙ](onufrii-velikii.md)
