@@ -214,3 +214,7 @@
 * [ВЕЛИКОМУЧЕНИК ПРОКОПИЙ](velikomuchenik-prokopii.md)
 * [ВИКТОР МАРСЕЛЬСКИЙ](viktor-marselskii.md)
 * [СВЯТОЙ ВЯЧЕСЛАВ ЧЕШСКИЙ](svyatoi-vyacheslav-cheshskii.md)
+* [ДИОМИД ВРАЧ](diomid-vrach.md)
+* [ДИОНИСИЙ АЛЕКСАНДРИЙСКИЙ](dionisii-aleksandriiskii.md)
+* [ЗОСИМА КИЛИКИЙСКИЙ](zosima-kilikiiskii.md)
+* [ЗОТИК СИРОПИТАТЕЛЬ](zotik-siropitatel.md)
