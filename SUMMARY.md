@@ -257,3 +257,4 @@
 * [РАВНОАПОСТОЛЬНАЯ ФЕКЛА](ravnoapostolnaya-fekla.md)
 * [ФЕОДУЛ КОНСТАНТИНОПОЛЬСКИЙ](feodul-konstantinopolskii.md)
 * [ЦЕРКОВНОЕ НОВОЛЕТИЕ](cerkovnoe-novoletie.md)
+* [ФОТИЙ КОНСТАНТИНОПОЛЬСКИЙ](fotii-konstantinopolskii.md)
