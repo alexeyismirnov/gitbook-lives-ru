@@ -265,7 +265,7 @@
 * [АКИЛИНА БИБЛОССКАЯ](akilina-biblosskaya.md)
 * [ХАЛКИДОНСКИЕ МУЧЕНИКИ](khalkidonskie-mucheniki.md)
 * [ОТДАНИЕ ПЯТИДЕСЯТНИЦЫ](otdanie-pyatidesyatnicy.md)
-* [МУЧЕНИК ГЕОГИЙ НОВЫЙ](muchenik-geogii-novyi.md)
+* [МУЧЕНИК ГЕОРГИЙ НОВЫЙ](muchenik-georgii-novyi.md)
 * [СВЯТОЙ АЛЕКСИЙ МИТРОПОЛИТ РУССКОЙ ЦЕРКВИ](svyatoi-aleksii-mitropolit-russkoi-cerkvi.md)
 * [МИЛАНСКИЙ ЭДИКТ](milanskii-edikt.md)
 * [ПЕТР АФОНСКИЙ](petr-afonskii.md)
