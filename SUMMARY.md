@@ -329,3 +329,4 @@
 * [ТРИФЕНА КИЗИЧЕСКАЯ](trifena-kizicheskaya.md)
 * [ДВА ВРЕМЕНИ ВЕЛИКОГО ПОСТА](dva-vremeni-velikogo-posta.md)
 * [СВЯТОЙ ВЕЛИКОМУЧЕНИК ФЕОДОР ТИРОН](svyatoi-velikomuchenik-feodor-tiron.md)
+* [ТОРЖЕСТВО ПРАВОСЛАВИЯ](torzhestvo-pravoslaviya.md)
