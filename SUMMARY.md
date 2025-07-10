@@ -331,3 +331,5 @@
 * [СВЯТОЙ ВЕЛИКОМУЧЕНИК ФЕОДОР ТИРОН](svyatoi-velikomuchenik-feodor-tiron.md)
 * [ТОРЖЕСТВО ПРАВОСЛАВИЯ](torzhestvo-pravoslaviya.md)
 * [ПОКЛОНЕНИЕ КРЕСТУ](poklonenie-krestu.md)
+* [ВЕРБНОЕ ВОСКРЕСЕНЬЕ](verbnoe-voskresene.md)
+* [ВЕЛИКАЯ СРЕДА](velikaya-sreda.md)
