@@ -327,3 +327,4 @@
 * [ФЕОДОСИЙ ВЕЛИКИЙ](feodosii-velikii.md)
 * [ПАМЯТЬ МУЧЕНИЦЫ ТАТЬЯНЫ РИМСКОЙ](pamyat-muchenicy-tatyany-rimskoi.md)
 * [ТРИФЕНА КИЗИЧЕСКАЯ](trifena-kizicheskaya.md)
+* [ДВА ВРЕМЕНИ ВЕЛИКОГО ПОСТА](dva-vremeni-velikogo-posta.md)
