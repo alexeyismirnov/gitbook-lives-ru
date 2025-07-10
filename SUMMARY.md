@@ -330,3 +330,4 @@
 * [ДВА ВРЕМЕНИ ВЕЛИКОГО ПОСТА](dva-vremeni-velikogo-posta.md)
 * [СВЯТОЙ ВЕЛИКОМУЧЕНИК ФЕОДОР ТИРОН](svyatoi-velikomuchenik-feodor-tiron.md)
 * [ТОРЖЕСТВО ПРАВОСЛАВИЯ](torzhestvo-pravoslaviya.md)
+* [ПОКЛОНЕНИЕ КРЕСТУ](poklonenie-krestu.md)
