@@ -333,3 +333,4 @@
 * [ПОКЛОНЕНИЕ КРЕСТУ](poklonenie-krestu.md)
 * [ВЕРБНОЕ ВОСКРЕСЕНЬЕ](verbnoe-voskresene.md)
 * [ВЕЛИКАЯ СРЕДА](velikaya-sreda.md)
+* [ПРАВЕДНЫЙ ИОСИФ](pravednyi-iosif.md)
