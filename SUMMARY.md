@@ -369,7 +369,6 @@
 * [ИОАНН ВОИН](ioann-voin.md)
 * [ПЕРЕНЕСЕНИЕ МОЩЕЙ СВЯТОГО АЛЕКСАНДРА НЕВСКОГО](perenesenie-moshei-svyatogo-aleksandra-nevskogo.md)
 * [СВЯТИТЕЛЬ ГЕРМАН ОСЕРСКИЙ](svyatitel-german-oserskii.md)
-* [КИПРИАН КАРФАГЕНСКИЙ](kiprian-karfagenskii-1.md)
 * [ПАИСИЙ АФОНСКИЙ](paisii-afonskii.md)
 * [АНДРЕЙ ХРИСТА РАДИ ЮРОДИВЫЙ](andrei-khrista-radi-yurodivyi.md)
 * [СВЯТЫЕ КИПРИАН И ИУСТИНА](svyatye-kiprian-i-iustina.md)
