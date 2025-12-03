@@ -380,7 +380,7 @@
 * [СОБОР СЕМИДЕСЯТИ АПОСТОЛОВ](sobor-semidesyati-apostolov.md)
 * [ЧУДО АРХАНГЕЛА МИХАИЛА](chudo-arkhangela-mikhaila.md)
 * [МИХАИЛОВО ЧУДО](mikhailovo-chudo.md)
-* [МУЧЕНИКИ СЕРГИЯ И ВАКХ](mucheniki-sergiya-i-vakkh.md)
+* [МУЧЕНИКИ СЕРГИЙ И ВАКХ](mucheniki-sergii-i-vakkh.md)
 * [ПРЕПОДОБНЫЙ ЛУКА ЭЛЛАДСКИЙ](prepodobnyi-luka-elladskii.md)
 * [СОБОР ИОАННА ПРЕДТЕЧИ](sobor-ioanna-predtechi.md)
 * [СВЯТАЯ ПЕЛАГИЯ ДЕВА](svyataya-pelagiya-deva.md)
