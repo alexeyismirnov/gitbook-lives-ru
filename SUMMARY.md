@@ -439,3 +439,4 @@
 * [МАРОН ПУСТЫННИК](maron-pustynnik.md)
 * [ЕВСЕВИЙ СИРИЙСКИЙ](evsevii-siriiskii.md)
 * [МУЧЕНИК ПАМФИЛ](muchenik-pamfil.md)
+* [ВЕЛИКОМУЧЕНИК ФЕОДОР СТРАТИЛАТ](velikomuchenik-feodor-stratilat.md)
