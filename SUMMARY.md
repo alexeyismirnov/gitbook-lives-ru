@@ -440,3 +440,7 @@
 * [ЕВСЕВИЙ СИРИЙСКИЙ](evsevii-siriiskii.md)
 * [МУЧЕНИК ПАМФИЛ](muchenik-pamfil.md)
 * [ВЕЛИКОМУЧЕНИК ФЕОДОР СТРАТИЛАТ](velikomuchenik-feodor-stratilat.md)
+* [МУЧЕНИК ПАМФИЛ](muchenik-pamfil-1.md)
+* [МУЧЕНИК ПЛАТОН АНКИРСИЙ](muchenik-platon-ankirsii.md)
+* [ФЕОДОР ТИРОН](feodor-tiron.md)
+* [ЛЕВ РИМСКИЙ](lev-rimskii.md)
