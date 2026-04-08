@@ -452,7 +452,6 @@
 * [ПРЕПОДОБНЫЙ АЛЕКСАНДР НЕУСЫПАЮЩИЙ](prepodobnyi-aleksandr-neusypayushii.md)
 * [ОТДАНИЕ ПРАЗДНИКА ВВЕДЕНИЯ ВО ХРАМ](otdanie-prazdnika-vvedeniya-vo-khram.md)
 * [СВЯТОЙ МАЛХ ПЛЕННИК](svyatoi-malkh-plennik.md)
-* [ПЕРВОЕ И ВТОРОЕ ОБРЕТЕНИЕ ГЛАВЫ ИОАННА ПРЕДТЕЧИ](pervoe-i-vtoroe-obretenie-glavy-ioanna-predtechi-1.md)
 * [ПЕРВОЕ И ВТОРОЕ ОБРЕТЕНИЕ](pervoe-i-vtoroe-obretenie.md)
 * [ИЛАРИОН НОВЫЙ ПЕЛИКИТСКИЙ](ilarion-novyi-pelikitskii.md)
 * [ТАРАСИЙ КОНСТАНТИНОПОЛЬСКИЙ](tarasii-konstantinopolskii.md)
