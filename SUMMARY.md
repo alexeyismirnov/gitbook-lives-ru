@@ -460,7 +460,6 @@
 * [ПРОКОПИЙ ДЕКАПОЛИТ](prokopii-dekapolit.md)
 * [ДОМНИНА СИРИЙСКАЯ](domnina-siriiskaya.md)
 * [ПРОТЕРИЙ АЛЕКСАНДРИЙСКИЙ](proterii-aleksandriiskii.md)
-* [МУЧЕНИК ТРИФОН](muchenik-trifon-1.md)
 * [ФЕОДОТ КИРИНСКИЙ](feodot-kirinskii.md)
 * [МУЧЕНИК ВАСИЛИСК КОМАНСКИЙ](muchenik-vasilisk-komanskii.md)
 * [ГЕРАСИМ ИОРДАНСКИЙ](gerasim-iordanskii.md)
