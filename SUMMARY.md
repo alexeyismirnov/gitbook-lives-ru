@@ -478,3 +478,8 @@
 * [ХАРАЛАМПИЙ МАГНЕЗИЙСКИЙ](kharalampii-magneziiskii-1.md)
 * [СВЯТОЙ ВЛАСИЙ СЕВАСТИЙСКИЙ](svyatoi-vlasii-sevastiiskii-1.md)
 * [СВЯТАЯ ЦАРИЦА ФЕОДОРА](svyataya-carica-feodora.md)
+* [МЕЛЕТИЙ АНТИОХИЙСКИЙ](meletii-antiokhiiskii-1.md)
+* [МУЧЕНИК САВИН ЕРМОПОЛЬСКИЙ](muchenik-savin-ermopolskii.md)
+* [МУЧЕНИК АРТЕМОН ЛАОДИКИЙСКИЙ](muchenik-artemon-laodikiiskii.md)
+* [МАРОН ПУСТЫННИК](maron-pustynnik-1.md)
+* [ГРИГОРИЙ ПАЛАМА](grigorii-palama-1.md)
