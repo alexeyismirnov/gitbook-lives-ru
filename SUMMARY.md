@@ -489,3 +489,8 @@
 * [ЛЕОНИД КОРИНФСКИЙ И ЕГО СПОДВИЖНИЦЫ МУЧЕНИЦЫ](leonid-korinfskii-i-ego-spodvizhnicy-muchenicy.md)
 * [МУЧЕНИК ПАМФИЛ](muchenik-pamfil-2.md)
 * [СВЯТЫЕ 29 ГО ФЕВРАЛЯ](svyatye-29-go-fevralya.md)
+* [АКАКИЙ МЕЛИТИНСКИЙ](akakii-melitinskii.md)
+* [СВЯТОЙ МУЧЕНИК МАРИН](svyatoi-muchenik-marin.md)
+* [ПЕРЕНЕСЕНИЕ МОЩЕЙ СВЯТЫХ КИРА И ИОАННА](perenesenie-moshei-svyatykh-kira-i-ioanna.md)
+* [СВЯТЫЕ СОРОК МУЧЕНИКОВ КАРФАГЕНСКИХ](svyatye-sorok-muchenikov-karfagenskikh.md)
+* [ФОМА КОНСТАНТИНОПОЛЬСКИЙ](foma-konstantinopolskii.md)
