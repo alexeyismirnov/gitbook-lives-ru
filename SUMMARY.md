@@ -443,7 +443,6 @@
 * [МУЧЕНИК ПЛАТОН АНКИРСИЙ](muchenik-platon-ankirsii.md)
 * [ФЕОДОР ТИРОН](feodor-tiron.md)
 * [ЛЕВ РИМСКИЙ](lev-rimskii.md)
-* [ВЕЛИКОМУЧЕНИЦА АНАСТАСИЯ](velikomuchenica-anastasiya-1.md)
 * [ВВЕДЕНИЕ](vvedenie.md)
 * [ИСААК ДАЛМАТСКИЙ](isaak-dalmatskii.md)
 * [ДОСИФЕЙ ГАЗСКИЙ](dosifei-gazskii.md)
