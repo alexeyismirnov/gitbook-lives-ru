@@ -455,7 +455,6 @@
 * [ПЕРВОЕ И ВТОРОЕ ОБРЕТЕНИЕ](pervoe-i-vtoroe-obretenie.md)
 * [ИЛАРИОН НОВЫЙ ПЕЛИКИТСКИЙ](ilarion-novyi-pelikitskii.md)
 * [ТАРАСИЙ КОНСТАНТИНОПОЛЬСКИЙ](tarasii-konstantinopolskii.md)
-* [ЛАВРЕНТИЙ ТУРОВСКИЙ](lavrentii-turovskii-1.md)
 * [ПОРФИРИЙ ГАЗСКИЙ](porfirii-gazskii.md)
 * [СВЯТОЙ КИРИАК ПАЛЕСТИНСКИЙ](svyatoi-kiriak-palestinskii.md)
 * [ПРОКОПИЙ ДЕКАПОЛИТ](prokopii-dekapolit.md)
