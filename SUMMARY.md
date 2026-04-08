@@ -467,7 +467,6 @@
 * [ЕВТИХИЙ КОНСТАНТИНОПОЛЬСКИЙ](evtikhii-konstantinopolskii.md)
 * [МУЧЕНИК ФЕОДОРИТ АНТИОХИЙСКИЙ](muchenik-feodorit-antiokhiiskii.md)
 * [АНАСТАСИЯ ПАТРИЦИЯ](anastasiya-patriciya.md)
-* [ХАРАЛАМПИЙ МАГНЕЗИЙСКИЙ](kharalampii-magneziiskii-1.md)
 * [СВЯТОЙ ВЛАСИЙ СЕВАСТИЙСКИЙ](svyatoi-vlasii-sevastiiskii-1.md)
 * [СВЯТАЯ ЦАРИЦА ФЕОДОРА](svyataya-carica-feodora.md)
 * [МЕЛЕТИЙ АНТИОХИЙСКИЙ](meletii-antiokhiiskii-1.md)
