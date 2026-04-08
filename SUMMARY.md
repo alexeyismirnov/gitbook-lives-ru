@@ -462,3 +462,8 @@
 * [ПОРФИРИЙ ГАЗСКИЙ](porfirii-gazskii.md)
 * [СВЯТОЙ КИРИАК ПАЛЕСТИНСКИЙ](svyatoi-kiriak-palestinskii.md)
 * [ПРОКОПИЙ ДЕКАПОЛИТ](prokopii-dekapolit.md)
+* [ДОМНИНА СИРИЙСКАЯ](domnina-siriiskaya.md)
+* [ПАИСИЙ АФОНСКИЙ](paisii-afonskii-1.md)
+* [ПРОТЕРИЙ АЛЕКСАНДРИЙСКИЙ](proterii-aleksandriiskii.md)
+* [МУЧЕНИК ТРИФОН](muchenik-trifon-1.md)
+* [ФЕОДОТ КИРИНСКИЙ](feodot-kirinskii.md)
