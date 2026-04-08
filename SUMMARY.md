@@ -466,7 +466,6 @@
 * [МАРК ПОСТНИК](mark-postnik.md)
 * [ЕВТИХИЙ КОНСТАНТИНОПОЛЬСКИЙ](evtikhii-konstantinopolskii.md)
 * [МУЧЕНИК ФЕОДОРИТ АНТИОХИЙСКИЙ](muchenik-feodorit-antiokhiiskii.md)
-* [МУЧЕНИК НИКИФОР В АНТИОХИИ ПИСИДИЙСКОЙ](muchenik-nikifor-v-antiokhii-pisidiiskoi-1.md)
 * [АНАСТАСИЯ ПАТРИЦИЯ](anastasiya-patriciya.md)
 * [ХАРАЛАМПИЙ МАГНЕЗИЙСКИЙ](kharalampii-magneziiskii-1.md)
 * [СВЯТОЙ ВЛАСИЙ СЕВАСТИЙСКИЙ](svyatoi-vlasii-sevastiiskii-1.md)
