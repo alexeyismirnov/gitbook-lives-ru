@@ -479,3 +479,4 @@
 * [ПЕРЕНЕСЕНИЕ МОЩЕЙ СВЯТЫХ КИРА И ИОАННА](perenesenie-moshei-svyatykh-kira-i-ioanna.md)
 * [СВЯТЫЕ СОРОК МУЧЕНИКОВ КАРФАГЕНСКИХ](svyatye-sorok-muchenikov-karfagenskikh.md)
 * [ФОМА КОНСТАНТИНОПОЛЬСКИЙ](foma-konstantinopolskii.md)
+* [ПРЕДПРАЗДНОСТВО БЛАГОВЕЩЕНИЯ](predprazdnostvo-blagovesheniya.md)
